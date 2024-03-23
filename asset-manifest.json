@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/chatme/static/css/main.56c087e2.css",
-    "main.js": "/chatme/static/js/main.1173646a.js",
-    "index.html": "/chatme/index.html",
-    "main.56c087e2.css.map": "/chatme/static/css/main.56c087e2.css.map",
-    "main.1173646a.js.map": "/chatme/static/js/main.1173646a.js.map"
+    "main.css": "/Chatme/static/css/main.56c087e2.css",
+    "main.js": "/Chatme/static/js/main.ec6b3575.js",
+    "index.html": "/Chatme/index.html",
+    "main.56c087e2.css.map": "/Chatme/static/css/main.56c087e2.css.map",
+    "main.ec6b3575.js.map": "/Chatme/static/js/main.ec6b3575.js.map"
   },
   "entrypoints": [
     "static/css/main.56c087e2.css",
-    "static/js/main.1173646a.js"
+    "static/js/main.ec6b3575.js"
   ]
 }
